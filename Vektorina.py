@@ -42,4 +42,4 @@ for i in range(len(b)):
         if b[q][1] > b[q+1][1]:
             b[q],b[q+1] = b[q+1], b[q]
 
-print(join(b))
+print((b)
